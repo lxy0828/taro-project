@@ -1,0 +1,17 @@
+const domain = {
+    'APPLY': '//applyv3_pre.ymq.me',
+    'USER': '//user_pre.ymq.me',
+    'WECHAT': '//wechat_pre.ymq.me',
+    'appid': 'wxb79a34c65f602f9e',
+    'OLDAPPLY': '//apply.pre.ymq.me',
+    'APPLYURL': '//apply_pre.ymq.me',
+    'RACE': '//race_pre.ymq.me',
+    'WEBSOCKET': '//user_pre.ymq.me/push/getPushService',
+    'ART': '//art_pre.ymq.me',
+    'AUTHORITY': '//authority_pre.ymq.me',
+    'CLUB': '//club_pre.ymq.me/?r=Clubevents',
+    'ADVERT': '//advert_pre.ymq.me',
+    'COMPLEX': '//complex_pre.ymq.me',
+    'SPORTS': 'http://sports_pre.ymq.me'
+}
+export default domain;

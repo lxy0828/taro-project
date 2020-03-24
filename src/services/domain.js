@@ -1,0 +1,17 @@
+const domain = {
+  APPLY: 'http://applyv3.iyundong.me',
+  USER: 'http://user.iyundong.me',
+  WECHAT: 'http://wechat.iyundong.me',
+  appid: 'wx4336539de7f19e5a',
+  OLDAPPLY: 'http://apply.iyundong.me',
+  APPLYURL: 'http://apply.iyundong.me',
+  RACE: 'http://race.iyundong.me',
+  WEBSOCKET: 'http://user.iyundong.me/push/getPushService',
+  ART: 'http://art.iyundong.me',
+  AUTHORITY: 'http://authority.iyundong.me',
+  CLUB: 'http://clubv2.iyundong.me/?r=Clubevents',
+  ADVERT: 'http://advert.iyundong.me',
+  COMPLEX: 'http://complex.iyundong.me',
+  SPORTS: 'http://sports.iyundong.me'
+};
+export default domain;
